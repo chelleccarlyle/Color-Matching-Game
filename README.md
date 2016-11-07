@@ -13,3 +13,9 @@ Have fun!
 
 ![Starting Screen](https://github.com/chelleccarlyle/Color-Matching-Game/blob/master/starting-screen.png)
 
+* 2d game where player picks a color from a set of 6 colors in order to match colors from a grid
+* win by getting all the color squares to be the same color before number of tries runs out 
+* implemented game logic through pickColors() method that player to customize and choose 6 colors from grid of random colors (15 x 15)
+* designed a recursive algorithm called matchNext() that matches color squares on the grid for every move
+
+
