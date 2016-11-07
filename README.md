@@ -11,5 +11,5 @@ Have fun!
 
 # Starting Screen
 
-
+![Starting Screen](https://github.com/chelleccarlyle/Color-Matching-Game/blob/master/starting-screen.png)
 
