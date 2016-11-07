@@ -8,3 +8,8 @@ You will start off in the upper left box in the beginning of the game.
 Continue to match colors around you in order to win.
 You have 30 tries.
 Have fun!
+
+# Starting Screen
+
+
+
